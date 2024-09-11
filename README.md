@@ -6,7 +6,7 @@
 **Study Program:** Bachelor i Dataingeniørfag  
 **Submission Deadline:** 21.05.2024
 
-**Grade:** A
+## **Grade:** A
 
 ![Python-Logo](https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png)
 
