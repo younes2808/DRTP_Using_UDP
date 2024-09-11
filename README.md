@@ -24,7 +24,7 @@ The DRTP application includes client and server components, which work together 
 
 ## Implementation Details
 
-For detailed implementation information, including code and technical descriptions, please refer to the provided PDF document titled `Reliable_Transport_Protocol_Implementation.pdf`. The PDF comprehensively explains the code structure, methods used, and the overall protocol design.
+For detailed implementation information, including code and technical descriptions, please refer to the provided PDF document titled `s374220.pdf`. The PDF comprehensively explains the code structure, tests, methods used, and the overall protocol design.
 
 ## Getting Started
 
