@@ -37,6 +37,7 @@ Client:
 python application.py -c -i <ip> -p <port> -f <file_path> -w <window_size>
 
 They must be on the same IP and port
+
 How to test Application.py:
 - **Install Ubuntu inside Oracle VM VirtualBox**
 - **Install Mininet, Xterm, and Ubuntu Utils**
