@@ -8,6 +8,8 @@
 
 **Grade:** A
 
+![Python-Logo](https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png)
+
 ## Overview
 
 The Reliable Transport Protocol (DRTP) is a file transfer application that ensures reliable data transmission over UDP. This project was developed as part of the Exam for DATA2410 class, focusing on data networks and cloud services.
