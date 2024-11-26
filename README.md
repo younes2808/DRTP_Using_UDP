@@ -33,12 +33,14 @@ For detailed implementation information, including code and technical descriptio
 To use the DRTP application, follow these steps:
 
 Server:
+```bash
 python application.py -s -i <ip> -p <port> -d <discard_sequence_number>
-
+```
 Client:
+```bash
 python application.py -c -i <ip> -p <port> -f <file_path> -w <window_size>
-
-They must be on the same IP and port
+```
+**NB! They must be on the same IP and port**
 
 How to test Application.py:
 - **Install Ubuntu inside Oracle VM VirtualBox**
